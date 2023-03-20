@@ -1,3 +1,3 @@
 # ModernClock
-![modern clock 1](https://user-images.githubusercontent.com/108225275/226475186-170b5550-b2c6-499a-9c4c-9e00badf453d.png)
-![2023-03-20 13_05_15-Modern Clock – Clock java  Modern_Clock Modern_Clock main](https://user-images.githubusercontent.com/108225275/226475215-8f358b42-af47-4c9d-97d3-86b6dddcdafd.png)
+![Modern Clock Readme1](https://user-images.githubusercontent.com/108225275/226486969-894557c3-3095-43a4-a6eb-4824e7ab9074.png)
+![Modern Clock Readme2](https://user-images.githubusercontent.com/108225275/226486976-3ecc34d5-3d07-4ab7-8a30-c5e640ee01e3.png)
